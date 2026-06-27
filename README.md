@@ -42,4 +42,4 @@ python quiz.py
 
 ## Author
 
-Vishnu Bhargavi
+Vishnu G
